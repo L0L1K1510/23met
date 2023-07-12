@@ -41,7 +41,7 @@ result = pd.DataFrame()
 
 try:
     logger.info("Подготовка...")
-    proxyString = "kudrinalexanderp264027" + ":" + "7875370" + "@" + "x155.fxdx.in" + ":" + "15414"
+    proxyString = "login:pass@host:port" # mobile proxy
 
     wire_options = {
         'proxy': {
